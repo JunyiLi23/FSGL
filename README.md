@@ -14,3 +14,6 @@ pip3 install torch torchvision torchaudio
 ## Datasets
 
 ## How to use this repo and run the code
+
+## Notes
+I'll optimize the code structure when I have more time ⏳.
